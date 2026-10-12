@@ -12,3 +12,10 @@ training at N-TEC Labs.
 ## Purpose
 
 To learn professional version control.
+
+## Student
+
+Name: Tanwie Conglad
+
+Training:
+Mobile App Development and Backend Engineering 
