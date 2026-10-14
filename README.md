@@ -19,3 +19,7 @@ Name: Tanwie Conglad
 
 Training:
 Mobile App Development and Backend Engineering 
+
+## Student Profile
+
+This feature represents my developer profile
